@@ -5,7 +5,7 @@ Esse é um repositório para eu subir todo meu progresso realizado através do *
 
 ## :play_or_pause_button: O curso
 
-Bom, como o nome do curso já diz, é bem completo :new_moon_with_face: , mas em resumo (bem resumido) vamos começar do zero ensinando a lógica (é sempre bom revisar hehe), algotimo, boas práticas, codar JS front e back com Node, POO, usaremos os principais (atualmente) frameworks: Angular, React e Vue, e na parte back o Express.
+Bom, como o nome do curso já diz, é bem completo :new_moon_with_face: , mas em resumo (bem resumido) vamos começar do zero aprendendo a lógica (é sempre bom revisar hehe), algotimo, boas práticas, codar JS front e back com Node, POO, usaremos os principais (atualmente) frameworks: Angular, React e Vue, e na parte back o Express.
 
 Como eu já comecei o curso tem algumas semanas, estou subindo pro GitHub com alguns arquivos, porém ainda estou no começo do curso e o melhor ainda está por vir hehe :smile:
 
@@ -14,4 +14,4 @@ Por ser bem completo, o curso é bem longo, tem mais de 600 aulas com 90 horas, 
 Ah, vocês vão encontrar bastante comentários nos códigos. Mas é por que é um curso, então eu gosto de anotar as coisas importantes rsrs
 
 Se quiser ter uma noção mais completa do curso, aí vai:
-![](C:\Users\teste\Desktop\CursoJS\progresso\visaoGeralDoCurso.png)
+![visaoGeral](https://i.imgur.com/gOerVZh.png)
