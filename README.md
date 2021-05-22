@@ -14,4 +14,4 @@ Por ser bem completo, o curso é bem longo, tem mais de 600 aulas com 90 horas, 
 Ah, vocês vão encontrar bastante comentários nos códigos. Mas é por que é um curso, então eu gosto de anotar as coisas importantes rsrs
 
 Se quiser ter uma noção mais completa do curso, aí vai:
-![image-20210521231317853](C:\Users\teste\AppData\Roaming\Typora\typora-user-images\image-20210521231317853.png)
+![](C:\Users\teste\Desktop\CursoJS\progresso\visaoGeralDoCurso.png)
